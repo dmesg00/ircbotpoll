@@ -25,11 +25,11 @@ Replace these lines with your configuration:
 
 ```
 ######## CONFIGURATION (Edit with your settings)
-SERVER   = "localhost"
+SERVER   = "irc.example.net"
 PORT     = 6667
 USE_TLS  = False
-NICK     = "history-bot"
-REALNAME = "IRC Message History"
+NICK     = "poll-bot"
+REALNAME = "IRC Poll Bot"
 CHANNELS = ["#support", "#linux"]
 #########
 ```
@@ -69,7 +69,6 @@ Add the service at startup and start it:
 ## Syntax:
 
 ```
-
 !poll <question>
 !vote <option>
 !results
