@@ -6,7 +6,7 @@
 # apt update
 # apt install python3 python3-venv python3-pip
 # mkdir -p /opt/ircbotpoll
-# wget -c "https://q3aql.dev/scripts/ircbotpoll.py" -O /opt/ircbotpoll/ircbotpoll.py
+# wget -c "https://yougeek.dev/ircbotpoll/ircbotpoll.py" -O /opt/ircbotpoll/ircbotpoll.py
 # python3 -m venv /opt/ircbotpoll
 # source /opt/ircbotpoll/bin/activate
 # pip install --upgrade pip
