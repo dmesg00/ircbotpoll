@@ -3,7 +3,7 @@
 ################################################################
 # IRC Bot for creating polls                                   #
 #                                                              #
-# Created by asdo92 (asdo92@duck.com)                          #
+# Created by dmesg00 (dmesg00@duck.com)                          #
 # Licensed by GPL v2.0                                         #
 # Last update: 27-08-2025                                      #
 #                                                              #
